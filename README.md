@@ -1,25 +1,25 @@
-##### OVERVIEW
+## OVERVIEW
 
 Providing Authenticated access to thingQbator and monitor access. Right now there is no access mechanism exist for thingQbator which leads to unauthorized access and monitoring access becomes difficult.
 
 This repo contains code for both Hardware and Web backend. The entire project is structured like this using Design Thinking tool. Click here for downloading.
 
-##### TASKS
+## TASKS
 
-How to open the door only by authenticated user.
-How to verify authenticity of a user.
-How to log access data.
-How to alert the admin if an unauthorized user tries to access thingQbator.
-How to add a new user.
-How to add admin user.
-How to view daily usage.
-How to view access log of a single user.
+1. How to open the door only by authenticated user.
+2. How to verify authenticity of a user.
+3. How to log access data.
+4. How to alert the admin if an unauthorized user tries to access thingQbator.
+5. How to add a new user.
+6. How to add admin user.
+7. How to view daily usage.
+8. How to view access log of a single user.
 
-##### DETAILED SOLUTION DESCRIPTION
+## DETAILED SOLUTION DESCRIPTION
 
 There are two parts in this system.
-Hardware 
-Web Backend
+- Hardware 
+- Web Backend
 
 **Hardware**
 
