@@ -41,3 +41,4 @@ When the Add user button is pressed, it waits for detecting Admin RFID card. Whe
 On system booting, it will connect to the predefined wifi network and fetch authorization and admin list.
 
 The buzzer and led will notify the status of operation of device on different situations.
+
